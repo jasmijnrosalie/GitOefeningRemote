@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15721923-8a57-49b0-b8bd-94ace9c729ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/VerhaalPerZin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/VerhaalPerZin.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,5 +35,11 @@
       <updated>1591107508708</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="91" y="0" key="new project wizard" timestamp="1591169783706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/-1600.0.1600.860@0.0.1280.680" timestamp="1591169783706" />
   </component>
 </project>
